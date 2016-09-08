@@ -1,8 +1,8 @@
-require "RMagick"
+require "rmagick"
 require "fileutils"
 
 class MemeGenerator
-  VERSION = "1.0.9"
+  VERSION = "1.0.10"
 
   INTERLINE_SPACING_RATIO = 3
 
